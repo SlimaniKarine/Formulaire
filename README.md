@@ -5,6 +5,7 @@ J'ai réalisé le chifrement du mot de passe avec le PHP .
 #Remarques :
 J'ai ajouté un logo à mon formulaire comme demandé dans l'énoncé de l'exercice.
 J'ai éffectué des vérifications dans le formulaire d'inscription concernant le mot de passe et l'émail.
+J'ai ajouté la requette SQL pour prevenir les injections SQL.
 
 
 
