@@ -1,6 +1,6 @@
 <?php
 session_start();
-//On génére un jeton totalement unique (c'est capital :D)
+//On génére un jeton totalement unique  
 $token = uniqid(rand(), true);
 //Et on le stocke
 $_SESSION['token'] = $token;
