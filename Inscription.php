@@ -4,6 +4,8 @@
     <meta charset="utf-8"/>
     <title>Registration</title>
     <link rel="stylesheet" href="style.css"/>
+    <link rel="icon" href="images/logo.png" type="image/png">
+
 </head>
 <body>
 <?php
